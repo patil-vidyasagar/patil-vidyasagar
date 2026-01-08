@@ -128,7 +128,7 @@ Welcome to **Vidyasagar Patil's GitHub Profile**
 **Vidyasagar Patil**  
 Aspiring **DevOps Engineer** passionate about infrastructure automation, continuous delivery, and scalable cloud-native systems.
 
-- Former **IntegrateInfosolutions**
+- Former **PearlStone Technology**
 - Hands-on with **AWS, Linux, Docker, Kubernetes, Jenkins, Ansible, Terraform**
 - Experience across **Java, PHP, Red Hat Linux**, and cloud platforms
 
