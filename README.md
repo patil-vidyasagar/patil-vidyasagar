@@ -3,93 +3,133 @@
 **"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
 — *Sir M. Visvesvaraya*
 
-Welcome to **Vidyasagar Patil**
+Welcome to **Vidyasagar Patil's GitHub Profile**
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-### ⚙️ **DevOps Tools**   
-<span>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-</span> 
+### ⚙️ DevOps Tools  
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
 
-### ☁️ **Cloud Platforms**  
-<span>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure" />
-</span> 
+### ☁️ Cloud Platforms  
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure"/>
+</p>
 
-### 📊 **Monitoring & Logging**  
-<span>
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</span>  
+### 📊 Monitoring & Logging  
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-### 🔐 **Access & Config**  
-<span>
-  <img src="https://img.shields.io/badge/-AWS%20IAM-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</span> 
+### 🔐 Access & Configuration  
+<p>
+  <img src="https://img.shields.io/badge/AWS%20IAM-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
 
 ---
 
 ## 📦 CI/CD & Automation
 
-🔹 CI/CD Pipelines with Jenkins & GitHub Actions  
-🔹 Infrastructure Provisioning using Terraform & Ansible  
-🔹 Dockerized Microservices Deployment  
-🔹 Helm Charts for Kubernetes Orchestration  
-🔹 GitOps with GitHub, GitLab, and ArgoCD  
+- CI/CD pipelines using **Jenkins** and **GitHub Actions**
+- Infrastructure provisioning with **Terraform** and **Ansible**
+- Dockerized microservices deployments
+- Kubernetes orchestration using **Helm**
+- GitOps workflows with **GitHub**, **GitLab**, and **ArgoCD**
 
 ---
 
 ## 🌐 Cloud & Infrastructure  
 
-🔹 Deployments on AWS EC2, S3, RDS, IAM  
-🔹 VPC/Subnet/Security Group Configuration  
-🔹 Server Hardening & Patch Management  
-🔹 Monitoring via CloudWatch, Prometheus, Grafana  
-🔹 High Availability & Auto-Scaling Configurations  
+- AWS services: **EC2, S3, RDS, IAM**
+- **VPC, Subnets, Security Groups** configuration
+- Server hardening and patch management
+- Monitoring using **CloudWatch, Prometheus, Grafana**
+- **High Availability** and **Auto Scaling** architectures
+
+---
+
+## 🎓 Certifications
+
+- 🟧 **AWS Certified Solutions Architect – Associate**
+- 🟦 **AWS Certified Developer – Associate**
+- 🔴 **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
+- 🟣 **GitHub Copilot Certified (Microsoft)**
 
 ---
 
 ## 🔥 Featured Projects  
 
-- **🛡️ Secure Dockerized Flask App** — Docker, Nginx reverse proxy, AWS EC2  
-- **⚙️ Jenkins CI/CD Pipeline with Ansible** — end-to-end deployment to staging/production  
-- **☁️ Infrastructure as Code** — Fully automated AWS setup with Terraform  
-- **📊 K8s Observability Stack** — Prometheus, Grafana, Alertmanager setup on EKS  
+- **🛡️ Secure Dockerized Flask Application**  
+  Docker, Nginx Reverse Proxy, AWS EC2  
+
+- **⚙️ Jenkins CI/CD Pipeline with Ansible**  
+  End-to-end automated deployment to staging and production  
+
+- **☁️ Infrastructure as Code (IaC)**  
+  Fully automated AWS environment using Terraform  
+
+- **📊 Kubernetes Observability Stack**  
+  Prometheus, Grafana, Alertmanager on Amazon EKS  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patil-vidyasagar&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patil-vidyasagar&theme=tokyonight"
+    width="64%"
+    alt="GitHub Profile Details"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patil-vidyasagar&theme=tokyonight"
+    width="32%"
+    alt="GitHub Stats"
+  />
+</div>
 
 ---
 
-## 📊 Top Tools & Languages
+## 📊 Top Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patil-vidyasagar&layout=compact&theme=tokyonight)
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patil-vidyasagar&theme=tokyonight"
+    width="45%"
+    alt="Repos per Language"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patil-vidyasagar&theme=tokyonight"
+    width="45%"
+    alt="Most Commit Language"
+  />
+</div>
 
 ---
 
-![DevOps](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![DevOps Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 **Vidyasagar Patil**  
-Aspiring **DevOps Engineer** with a passion for infrastructure automation, continuous delivery, and scalable cloud-native architecture.  
-Ex-**IntegrateInfosolutions**, with hands-on experience across **Java, PHP, Red Hat Linux, AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform**, and more.
+Aspiring **DevOps Engineer** passionate about infrastructure automation, continuous delivery, and scalable cloud-native systems.
 
-> 🧠 *“I believe in solving problems using the right blend of tools, not being bound by any one.”*
+- Former **IntegrateInfosolutions**
+- Hands-on with **AWS, Linux, Docker, Kubernetes, Jenkins, Ansible, Terraform**
+- Experience across **Java, PHP, Red Hat Linux**, and cloud platforms
 
+> *“I believe in solving problems using the right blend of tools, not being bound by any one.”*
